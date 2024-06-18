@@ -1,3 +1,7 @@
+* {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
 body {
   /* Modifications : la couleur de fond de page - la police - l'unité utilisée pour la taille de la police  */
   background-color: #fff;
